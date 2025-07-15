@@ -47,7 +47,7 @@ This project is a full-stack application built with a modern and robust technolo
   - **MongoDB**: A NoSQL, document-oriented database used for storing user data, problems, and submissions.
 
 - **AI Integration**:
-  - The backend is designed to communicate with an AI service (like OpenAI's GPT or a similar LLM) to generate problems and code suggestions.
+  - The backend is using Langchain to communicate with hugging face open source meta-llama/Llama-3.3-70B-Instruct model to generate problems and code suggestions.
 
 ## ⚙️ Setup and Installation
 
