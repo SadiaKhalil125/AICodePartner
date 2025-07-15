@@ -1,0 +1,75 @@
+/* src/Services.css */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+.services-page-container {
+  width: 100%;
+  min-height: 100vh;
+  padding: 120px 40px 40px; /* Top padding for fixed header */
+  background-color: #f8f9fa;
+  font-family: 'Poppins', sans-serif;
+  box-sizing: border-box;
+}
+
+.services-header {
+  max-width: 1200px;
+  margin: 0 auto 50px;
+  text-align: center;
+}
+
+.services-heading {
+  font-size: 2.8rem;
+  font-weight: 700;
+  color: #343a40;
+  margin-bottom: 15px;
+}
+
+.services-intro {
+  font-size: 1.1rem;
+  color: #6c757d;
+  line-height: 1.8;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.services-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.service-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 40px;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.05);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border-top: 4px solid transparent;
+}
+
+.service-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.1);
+  border-top-color: #667eea;
+}
+
+.service-icon {
+  color: #667eea;
+  margin-bottom: 25px;
+}
+
+.service-card-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #343a40;
+  margin: 0 0 15px 0;
+}
+
+.service-card-description {
+  font-size: 1rem;
+  color: #6c757d;
+  line-height: 1.7;
+  margin: 0;
+}
