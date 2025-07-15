@@ -2,7 +2,7 @@
 
 **AI Code Partner** is a modern, full-stack web application designed to help developers enhance their coding skills through AI-generated challenges, real-time feedback, and comprehensive performance analytics. This platform offers an interactive and dynamic learning experience, moving beyond static problem lists to provide tailored challenges on demand.
 
-Full Video Demo:  https://www.loom.com/share/5ccee1bcc0274107871d02170b6bdb4b?sid=687a375f-ab34-4dd8-918f-87de5c7eb29c
+Full Video Demo:  https://www.loom.com/share/253681c1eb32477aa48feb3ac78f9bb5?sid=199bdaaa-23cc-47e6-ba30-a3538c3aa495
 
 <img width="1366" height="768" alt="Screenshot (1156)" src="https://github.com/user-attachments/assets/f7ca6eb6-9436-4c8a-a530-59d8d60b8a2d" />
 <img width="1366" height="768" alt="Screenshot (1157)" src="https://github.com/user-attachments/assets/caec054d-97ce-47aa-8974-03516e9c1853" />
