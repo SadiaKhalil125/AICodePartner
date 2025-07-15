@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (1166)" src="https://github.com/user-attachments/assets/2536eb75-b461-4de9-ad3b-3bda3ebd89b8" /># 🚀 AI Code Partner
+# 🚀 AI Code Partner
 
 **AI Code Partner** is a modern, full-stack web application designed to help developers enhance their coding skills through AI-generated challenges, real-time feedback, and comprehensive performance analytics. This platform offers an interactive and dynamic learning experience, moving beyond static problem lists to provide tailored challenges on demand.
 
