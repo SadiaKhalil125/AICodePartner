@@ -11,6 +11,8 @@ Full Video Demo:  https://www.loom.com/share/253681c1eb32477aa48feb3ac78f9bb5?si
 <img width="1366" height="768" alt="Screenshot (1162)" src="https://github.com/user-attachments/assets/d71a12ef-a1ed-4744-8c29-85c2cf4a2859" />
 <img width="1366" height="768" alt="Screenshot (1164)" src="https://github.com/user-attachments/assets/7fc718f4-22c8-422d-8e25-57641f5d838b" />
 <img width="1366" height="768" alt="Screenshot (1165)" src="https://github.com/user-attachments/assets/33c852d2-1d6d-47c2-89b8-698d23df872f" />
+<img width="1366" height="768" alt="Screenshot (1154)" src="https://github.com/user-attachments/assets/89891645-90e7-4902-ba64-d4b79b69a76f" />
+<img width="1366" height="768" alt="Screenshot (1155)" src="https://github.com/user-attachments/assets/efb4f0ab-8936-43e3-b328-c8ba38b6a4fe" />
 <img width="1366" height="768" alt="Screenshot (1166)" src="https://github.com/user-attachments/assets/8ddc9642-6805-4b86-8a2a-7801e3afb2cd" />
 <img width="1366" height="768" alt="Screenshot (1167)" src="https://github.com/user-attachments/assets/1b1ab5d8-eea7-4651-9722-cce26c6eccec" />
 <img width="1366" height="768" alt="Screenshot (1168)" src="https://github.com/user-attachments/assets/f151d0a4-ea3c-419d-8fb8-f52259e8c2dc" />
