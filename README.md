@@ -55,9 +55,10 @@ This project is a full-stack application built with a modern and robust technolo
 
 To run this project locally, you will need to have Node.js, Python, and MongoDB installed. Follow these steps:
 
-### 1. Clone the Repository
 
 ```bash
+Clone the Repository
+
 git clone https://github.com/your-username/AICodePartner.git
 cd AICodePartner
 
